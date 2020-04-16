@@ -55,3 +55,4 @@ Source/*
 # ignore substance
 *.spp
 Build/WindowsNoEditor/FileOpenOrder/EditorOpenOrder.log
+Build/WindowsNoEditor/FileOpenOrder/EditorOpenOrder.log
